@@ -1,0 +1,29 @@
+# =============== #
+# Python (venv)   #
+# =============== #
+# Thư mục môi trường ảo, TUYỆT ĐỐI không tải lên
+venv/
+*.venv/
+
+# Thư mục cache của Python
+__pycache__/
+*.pyc
+
+# File môi trường (chứa mật khẩu, API keys)
+.env
+.env.*
+
+# =============== #
+# .NET / C#       #
+# =============== #
+# Thư mục chứa file biên dịch (rất nặng)
+bin/
+obj/
+
+# Thư mục cache của Visual Studio
+.vs/
+.vscode/
+
+# File cài đặt riêng của người dùng
+*.csproj.user
+*.sln.DotSettings.user
