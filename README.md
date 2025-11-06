@@ -1,4 +1,4 @@
-# 🚀 Đồ án Chatbot BookStore (.NET + Python)
+# Đồ án Chatbot BookStore (.NET + Python)
 
 Chào mừng các bạn đến với dự án! Đây là một hệ thống BookStore được tích hợp một Chatbot AI thông minh sử dụng các mô hình Xử lý Ngôn ngữ Tự nhiên (NLP).
 
