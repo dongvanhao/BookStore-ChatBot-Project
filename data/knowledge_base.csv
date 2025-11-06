@@ -1,0 +1,51 @@
+﻿id;question;answer
+ORDER_01;Làm sao để kiểm tra đơn hàng của tôi?;Bạn có thể nhập mã đơn trên trang “Theo dõi đơn hàng” hoặc nhắn mã để shop tra giúp.
+ORDER_02;Tôi muốn hủy đơn thì làm sao?;Bạn chỉ cần nhắn mã đơn trong vòng 2h sau khi đặt, shop sẽ hỗ trợ hủy giúp.
+ORDER_03;Tôi có thể đổi địa chỉ nhận hàng sau khi đặt không?;Nếu đơn chưa gửi, bạn có thể gửi địa chỉ mới để shop cập nhật.
+ORDER_04;Tôi đặt nhầm sản phẩm, sửa lại được không?;Có, miễn đơn chưa xác nhận vận chuyển, bạn có thể yêu cầu chỉnh sửa.
+ORDER_05;Làm sao biết đơn đã được xác nhận?;Khi đơn được xác nhận, bạn sẽ nhận thông báo qua email và SMS.
+ORDER_06;Tôi đặt hai đơn, có thể gộp lại không?;Nếu cả hai đơn chưa giao, bạn nhắn mã đơn để shop hỗ trợ gộp.
+ORDER_07;Bao lâu thì đơn được xử lý?;Thông thường shop xử lý đơn trong vòng 1–2 giờ làm việc.
+ORDER_08;Tôi không nhận được thông báo đơn hàng?;Bạn kiểm tra lại email và mục spam, hoặc nhắn để shop kiểm tra giúp.
+ORDER_09;Làm sao để đặt hàng nhanh hơn?;Bạn có thể đăng nhập tài khoản, lưu sẵn địa chỉ và phương thức thanh toán.
+ORDER_10;Tôi muốn xem lịch sử mua hàng?;Vào trang cá nhân → “Đơn hàng của tôi” để xem lịch sử mua hàng.
+PAY_01;Shop chấp nhận phương thức thanh toán nào?;Shop nhận COD, chuyển khoản ngân hàng, ví Momo, và thẻ Visa.
+PAY_02;Thanh toán online có ưu đãi không?;Khi thanh toán online, bạn được giảm 5% tổng đơn.
+PAY_03;Tôi bị trừ tiền nhưng chưa nhận được đơn thì sao?;Bạn gửi sao kê hoặc ảnh giao dịch, shop sẽ kiểm tra và hoàn tiền nếu lỗi.
+PAY_04;Có thể trả góp không?;Hiện shop chưa hỗ trợ trả góp, nhưng đang phát triển tính năng này.
+PAY_05;Thanh toán bằng thẻ quốc tế được không?;Được, shop chấp nhận Visa, Mastercard, và JCB.
+PAY_06;Momo có được giảm giá thêm không?;Khi thanh toán qua Momo, bạn được giảm thêm 10k cho đơn từ 200k.
+PAY_07;Có thể thanh toán bằng điểm thưởng không?;Có, bạn có thể đổi điểm tích lũy lấy voucher giảm giá.
+PAY_08;Shop có hoàn tiền khi đơn bị hủy không?;Có, tiền sẽ hoàn về ví hoặc tài khoản trong 1–3 ngày làm việc.
+PAY_09;Tôi không dùng được mã giảm giá khi thanh toán?;Hãy kiểm tra hạn sử dụng và điều kiện đơn hàng, nếu vẫn lỗi shop sẽ hỗ trợ.
+PAY_10;Làm sao nhận hóa đơn điện tử sau khi thanh toán?;Shop gửi hóa đơn qua email sau khi giao hàng thành công.
+PROMO_01;Hiện có chương trình khuyến mãi nào không?;Tháng này giảm 10% cho đơn trên 300k và tặng bookmark xinh.
+PROMO_02;Làm sao để nhận mã giảm giá?;Bạn có thể theo dõi fanpage BookStore để nhận mã khuyến mãi hàng tuần.
+PROMO_03;Mã giảm giá có cộng dồn được không?;Không, mỗi đơn chỉ dùng một mã giảm giá.
+PROMO_04;Có chương trình cho khách hàng thân thiết không?;Có, bạn sẽ được tích điểm và giảm thêm 5% cho đơn tiếp theo.
+PROMO_05;Khi nào có đợt sale lớn tiếp theo?;Shop có sale vào 9/9, 11/11, và 12/12 mỗi năm.
+PROMO_06;Mã khuyến mãi dùng ở đâu?;Bạn nhập mã tại bước thanh toán trước khi xác nhận đơn.
+PROMO_07;Tôi không thấy banner khuyến mãi?;Bạn thử tải lại trang hoặc dùng trình duyệt khác để xem.
+PROMO_08;Làm sao nhận quà sinh nhật từ shop?;Đăng nhập tài khoản và cập nhật ngày sinh, shop sẽ gửi quà sinh nhật tự động.
+PROMO_09;Có chương trình ưu đãi cho sinh viên không?;Có, sinh viên được giảm 10% khi đăng ký bằng email .edu.vn.
+PROMO_10;Tôi muốn đăng ký nhận tin khuyến mãi qua email?;Bạn có thể bật tùy chọn “Nhận email ưu đãi” trong phần tài khoản.
+FAQ_01;Shop có giao toàn quốc không?;Có, shop giao hàng toàn quốc qua GHTK và Viettel Post.
+FAQ_02;Phí vận chuyển tính như thế nào?;Phí tùy khu vực, thường 20k nội thành và 30k ngoại tỉnh.
+FAQ_03;Thời gian giao hàng là bao lâu?;Khoảng 2–4 ngày tùy khu vực.
+FAQ_04;Shop có xuất hóa đơn VAT không?;Có, bạn vui lòng cung cấp thông tin công ty khi đặt hàng.
+FAQ_05;Shop mở cửa lúc mấy giờ?;BookStore hoạt động từ 8:00 sáng đến 21:00 mỗi ngày, kể cả cuối tuần.
+FAQ_06;Tôi muốn liên hệ CSKH thì làm sao?;Bạn có thể nhắn trực tiếp fanpage hoặc gọi hotline 1900-9999.
+FAQ_07;Shop có chính sách đổi trả không?;Có, bạn được đổi trong 7 ngày nếu hàng lỗi hoặc sai mẫu.
+FAQ_08;Tôi muốn góp ý với shop thì gửi ở đâu?;Bạn có thể gửi tại mục “Phản hồi khách hàng” trên website.
+FAQ_09;Có thể đặt hàng qua điện thoại không?;Có, bạn gọi hotline để nhân viên hỗ trợ đặt giúp.
+FAQ_10;Tôi có thể mua sỉ không?;Có, shop có chính sách giá sỉ cho đơn từ 20 sản phẩm trở lên.
+BOOK_01;Sách mới ra có gì nổi bật?;Các tựa mới gồm tiểu thuyết, kỹ năng sống, và sách lập trình.
+BOOK_02;Làm sao tìm sách theo thể loại?;Bạn vào mục “Thể loại” hoặc dùng thanh tìm kiếm ở đầu trang.
+BOOK_03;Có sách tiếng Anh không?;Có, BookStore cung cấp nhiều đầu sách song ngữ và sách gốc.
+BOOK_04;Thông tin sách Dám bị ghét;“Dám bị ghét” là sách triết lý Nhật Bản của Kishimi Ichiro & Koga Fumitake, khuyến khích sống tự do, tự tin.
+BOOK_05;Thông tin sách Tuổi trẻ đáng giá bao nhiêu;“Tuổi trẻ đáng giá bao nhiêu” của Rosie Nguyễn, nói về hành trình phát triển bản thân của người trẻ.
+BOOK_06;Có sách về lập trình không?;Có, đặc biệt là các sách về C#, Python, và AI.
+BOOK_07;Khi nào có hàng tái bản?;Bạn có thể đăng ký “Báo khi có hàng” để nhận thông báo tái bản.
+BOOK_08;Tôi muốn đặt trước sách sắp ra mắt.;Shop có mục “Pre-order” để bạn đặt trước và nhận ưu đãi.
+BOOK_09;Có tặng kèm bookmark không?;Có, mỗi đơn hàng đều được tặng 1 bookmark ngẫu nhiên.
+BOOK_10;Sách có được bọc plastic không?;Có, tất cả sách đều được bọc nilon bảo vệ trước khi giao.

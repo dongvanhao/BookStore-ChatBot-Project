@@ -1,0 +1,55 @@
+﻿utterance;intent
+Hello shop;Greeting
+Có ai trực không ạ?;Greeting
+Chào buổi sáng, cho mình hỏi chút;Greeting
+Shop ơi, còn làm việc không đó;Greeting
+Ê shop, rep mình với;Greeting
+Chào bạn dễ thương;Greeting
+Mình muốn hỏi về sách nè;Greeting
+Shop có bán sách tâm lý không?;Search_book
+Còn cuốn “Tôi tài giỏi, bạn cũng thế” không vậy?;Search_book
+Cho mình xin link quyển Nhà Giả Kim;Search_book
+Mình đang tìm truyện ngắn của Nguyễn Nhật Ánh;Search_book
+Có sách về kỹ năng giao tiếp không bạn?;Search_book
+Shop còn hàng cuốn “Dám bị ghét” không?;Search_book
+Gợi ý cho mình vài cuốn self-help hay đi;Recommend_book
+Đang buồn, đọc sách gì cho đỡ nản vậy shop?;Recommend_book
+Có sách nào giúp tập trung học tốt hơn không?;Recommend_book
+Mình thích tiểu thuyết trinh thám, nên đọc gì?;Recommend_book
+Shop gợi ý vài quyển hot dạo này đi;Recommend_book
+Phí ship về Bạc Liêu là bao nhiêu ạ?;Check_shipping_fee
+Mình ở Hà Nội, có freeship không?;Check_shipping_fee
+Giao hàng bao lâu tới vậy bạn?;Check_shipping_fee
+Ship nhanh nhất mất mấy ngày?;Check_shipping_fee
+Có giao qua Shopee Express không?;Check_shipping_fee
+Shop tính ship theo cân hay theo đơn vậy?;Check_shipping_fee
+Sách giao tới rồi mà bị rách góc;Return_policy
+Muốn đổi sang quyển khác được không ạ?;Return_policy
+Cho hỏi chính sách bảo hành sản phẩm;Return_policy
+Shop có nhận đổi nếu giao nhầm không?;Return_policy
+Trả hàng có mất phí ship không?;Return_policy
+Đơn hàng #1245 của mình tới đâu rồi?;Order_status
+Kiểm tra giúp đơn 9854 mình với;Order_status
+Hôm qua đặt sách mà chưa thấy xác nhận;Order_status
+Sao đơn mình chưa cập nhật trạng thái?;Order_status
+Đơn mình giao qua bên nào vậy?;Order_status
+Có thể thanh toán khi nhận hàng không?;Payment_method
+Shop có hỗ trợ chuyển khoản trước không?;Payment_method
+Cho hỏi có ví Momo thanh toán không?;Payment_method
+Thanh toán bằng thẻ được không?;Payment_method
+Có mã giảm giá khi thanh toán online không?;Payment_method
+Shop ở đâu thế?;Store_info
+Cho xin địa chỉ cửa hàng nha;Store_info
+Có chi nhánh ở Sài Gòn không bạn?;Store_info
+Shop mở cửa từ mấy giờ tới mấy giờ vậy?;Store_info
+Liên hệ qua số nào nhanh nhất vậy ạ?;Store_info
+Có fanpage hay zalo không vậy?;Store_info
+Cảm ơn shop nhiều nha;Greeting
+Ok, mình sẽ đặt thử;Greeting
+Mình quay lại sau nhé;Greeting
+Có thể đặt giữ hàng trước không?;Order_status
+Giao hàng quốc tế được không?;Check_shipping_fee
+Shop có chương trình khuyến mãi gì không?;Store_info
+Cần gợi ý vài cuốn để tặng bạn gái;Recommend_book
+Sách học kỹ năng mềm nào bán chạy nhất?;Recommend_book
+Cho mình hỏi có nhận in hóa đơn VAT không?;Store_info
